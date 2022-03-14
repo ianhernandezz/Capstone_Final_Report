@@ -34,3 +34,11 @@ The source was found on the [Link to website](https://data.sfgov.org/Health-and-
 **Questions they hope to answer with the data**
 
 We hope to determine if a restaurant will have a High, low, or moderate health risk based off numerous features found in the data set.
+
+
+# Communication Protocols
+
+- First step daily - do a pull to the individual clones of the main branch 
+- Do a git pull of the individual branches to have the most up to date information to prevent discrepencies upon updating
+- Make sure to update the main branch and maintain constant communication to make sure everyone knows to perform updates to the clones. 
+- Make sure not to work on the same file at the same time as that will create discrepencies for update. 
