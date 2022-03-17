@@ -4,25 +4,30 @@
 
 **Week 1 (March 7-13th)**
 
-Ian Hernandez - Created the main repository for the project to be updated weekly (or as needed). Branches were created for both Jayce and Kevin. Folders were also created to organize the workflow of the project. 
+Ian Hernandez 
+
+- Created the main repository for the project to be updated weekly (or as needed). Branches were created for both Jayce and Kevin. Folders were also created to organize the workflow of the project. 
+
 
 Jayce Cox
 
-Week 1 (March 7-13th)
-
-Read the csv file into Jupyter. Created a provisional Machine Learning model.
+- Read the csv file into Jupyter. Created a provisional Machine Learning model.
 
 
 Kevin Estrada
 
-Week 1 (March 7-13th)
-
-Found the data set and hosted the data into PGadmin.
+- Found the data set and hosted the data into PGadmin.
 
 
 **Week 2 (March 14th-20th)**
 
-Ian Hernandez - This week my role has switched from last week, to be taking on the role to set up the database for merging and joining data sets and get it prepared for Machine Learning. 
+Ian Hernandez 
+
+- This week my role has switched from last week, to be taking on the role to set up the database for merging and joining data sets and get it prepared for Machine Learning. 
+
+Jayce Cox 
+
+Kevin Estrada
 
 ## Data Selection 
 
