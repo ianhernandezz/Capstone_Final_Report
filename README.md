@@ -24,6 +24,8 @@ Kevin Estrada
 Ian Hernandez 
 
 - This week my role has switched from last week, to be taking on the role to set up the database for merging and joining data sets and get it prepared for Machine Learning. 
+- Update March 20th - an attempt was made on database but ran into an issue with importing - it was picked up by Kevin Estrada(was able to create database with joins and merges). 
+- I picked up the tasks of pre-processing the new csv file to get it ready for machine learning. And additional task of google slides was picked up. 
 
 Jayce Cox 
 
