@@ -47,6 +47,15 @@ Jayce Cox
 - Created a slide detailing our next steps. 
 
 Kevin Estrada
+- Cleaned Original Data Set and Merged with Additional Data Set:
+    - Dropped uneccesary colums
+    - Dropped all rows that has a Null value 
+    - Changed columns to Int data type
+    - Grabbed all postal codes that had the same postal code in both lists
+    - Looped over data to remove extra postal codes of both original and additional data sets
+    - Created the table in postgress for both original and addtional data set
+    - Merged the both data sets on postal codes
+    - Uploaded data for ML learing 
 
 ## Data Selection 
 
