@@ -30,6 +30,22 @@ Ian Hernandez
 
 Jayce Cox 
 
+- Prepared the pre-processed data for the Machine Learning:
+    - Drop "inspection_id" and "inspection_score"
+    - Encode the input features
+    - Converted inspection_date to "Month" and encode "Month" as a number. 
+    - Drop inspection_date 
+    - Encode the data using get_dummies
+    - Split the data between test and train. 
+    - Apply StandardScaler
+    - Fit the train data
+    - Scale the input data
+    - Create a Random Forest Classifier
+    - Fit the model and make predictions using the testing data. 
+    - Evaulate the model using accuracy score, Confusion Matrix, and Classification Report. 
+- Created slides with results of the Machine Learning.
+- Created a slide detailing our next steps. 
+
 Kevin Estrada
 
 ## Data Selection 
