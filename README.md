@@ -68,6 +68,10 @@ Ian Hernandez
 - Downloaded and uploaded PowerPoint to repository
 
 Jayce Cox
+- Updated peresentation slides and notebook with description of preliminary data preprocessing
+- Updated peresentation slides and notebook with description of feature engineering and selection
+- Updated peresentation slides and notebook with description of how data was split
+- Updated peresentation slides and notebook with explanation of model choice. 
 
 Kevin Estrada
 
