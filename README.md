@@ -26,7 +26,7 @@ Ian Hernandez
 - This week my role has switched from last week, to be taking on the role to set up the database for merging and joining data sets and get it prepared for Machine Learning. 
 - Update March 20th - an attempt was made on database but ran into an issue with importing - it was picked up by Kevin Estrada(was able to create database with joins and merges). 
 - I picked up the tasks of pre-processing the new csv file to get it ready for machine learning. And additional task of google slides was picked up. 
-- Stage 2 pre-processing complete. CSV file is ready for ML (additional 3 columns were dropped. 
+- Stage 2 pre-processing complete. CSV file is ready for ML (additional 3 columns were dropped). 
 
 Jayce Cox 
 
@@ -56,6 +56,21 @@ Kevin Estrada
     - Created the table in postgress for both original and addtional data set
     - Merged the both data sets on postal codes
     - Uploaded data for ML learing 
+
+
+**Week 3 (March 20th-27th)**
+
+Ian Hernandez 
+- Created a new CSV for the purpose of Tableau
+- Created a dashboard on Tableau (screenshot provided on powerpoint)
+- Assisting on database creation for hosting
+- Updated PowerPoint slides for presentation 
+- Downloaded and uploaded PowerPoint to repository
+
+Jayce Cox
+
+Kevin Estrada
+
 
 ## Data Selection 
 
