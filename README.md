@@ -84,6 +84,8 @@ Jayce Cox
 - Updated peresentation slides and notebook with explanation of model choice. 
 
 Kevin Estrada
+- Uploaded data on Google Big Query to be able to connect to juypter notebook
+- Updated google slide to explain what will be included in "Data preprocessing" and "Data details", "Data storage"
 
 
 ## Data Selection 
