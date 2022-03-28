@@ -1,10 +1,11 @@
 # Capstone_Final_Report
 
 # Index:
-Machine Learning Model 1 and 2 in Notebook folder. 
-Data cleaning and exploration files in ML_PreProcessing folder
-Presentation in PowerPoint folder. 
-SF_Restaurant_Scores_Standard.csv  in Data folder. 
+
+- Machine Learning Model 1 and 2 in Notebook folder. 
+- Data cleaning and exploration files in ML_PreProcessing folder
+- Presentation in PowerPoint folder. 
+- SF_Restaurant_Scores_Standard.csv  in Data folder. 
 
 
 # Project Timeline 
