@@ -3,6 +3,8 @@
 # Index:
 
 - Machine Learning Model 1 and 2 in Notebook folder. 
+    - Provisional_ML_RF_1 is the first machine learning run
+    - Provisional_ML_RF_2 is the fine tuned machine learning run
 - Data cleaning and exploration files in ML_PreProcessing folder
 - Presentation in PowerPoint folder. 
 - SF_Restaurant_Scores_Standard.csv  in Data folder. 
