@@ -6,7 +6,7 @@
     - Provisional_ML_RF_1 is the first machine learning run
     - Provisional_ML_RF_2 is the fine tuned machine learning run
 - Data cleaning and exploration files in ML_PreProcessing folder
-- Presentation in PowerPoint folder. 
+- Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing) folder. 
 - SF_Restaurant_Scores_Standard.csv  in Data folder. 
 
 
