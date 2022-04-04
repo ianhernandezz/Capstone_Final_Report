@@ -5,9 +5,10 @@
 - Machine Learning Model 1 and 2 in [Notebook](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Notebooks) folder. 
     - Provisional_ML_RF_1 is the first machine learning run
     - Provisional_ML_RF_2 is the fine tuned machine learning run
-- Data cleaning and exploration files in ML_PreProcessing folder
+- Data cleaning and exploration files in [ML_PreProcessing](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/ML_Preprocessing)folder
 - Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing). 
-- SF_Restaurant_Scores_Standard.csv  in Data folder. 
+- SF_Restaurant_Scores_Standard.csv  in [Data](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Data) folder. 
+- Communication Protocols 
 
 
 # Project Timeline 
@@ -40,7 +41,7 @@ Ian Hernandez
 
 Jayce Cox 
 
-- Prepared the pre-processed data for the Machine Learning:
+- Prepared the [ML_PreProcessing](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/ML_Preprocessing) data for the Machine Learning:
     - Drop "inspection_id" and "inspection_score"
     - Encode the input features
     - Converted inspection_date to "Month" and encode "Month" as a number. 
@@ -78,14 +79,14 @@ Ian Hernandez
 - Downloaded and uploaded PowerPoint to repository
 
 Jayce Cox
-- Updated peresentation slides and notebook with description of preliminary data preprocessing
+- Updated [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing) and notebook with description of preliminary data preprocessing
 - Updated peresentation slides and notebook with description of feature engineering and selection
 - Updated peresentation slides and notebook with description of how data was split
 - Updated peresentation slides and notebook with explanation of model choice. 
 
 Kevin Estrada
 - Uploaded data on Google Big Query to be able to connect to juypter notebook
-- Updated google slide to explain what will be included in "Data preprocessing" and "Data details", "Data storage"
+- Updated [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing) to explain what will be included in "Data preprocessing" and "Data details", "Data storage"
 
 
 **Week 4 (March 27th-April 3rd)**
@@ -93,7 +94,7 @@ Kevin Estrada
 Ian Hernandez
 - Created further additions and rivisions to the [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing).
 - Helped organize the repository 
-- Helped developee the story 
+- Helped develope the story for the project
 
 Kevin Estrada
 
