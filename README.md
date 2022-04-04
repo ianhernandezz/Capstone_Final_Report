@@ -2,11 +2,11 @@
 
 # Index:
 
-- Machine Learning Model 1 and 2 in Notebook folder. 
+- Machine Learning Model 1 and 2 in [Notebook](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Notebooks) folder. 
     - Provisional_ML_RF_1 is the first machine learning run
     - Provisional_ML_RF_2 is the fine tuned machine learning run
 - Data cleaning and exploration files in ML_PreProcessing folder
-- Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing) folder. 
+- Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing). 
 - SF_Restaurant_Scores_Standard.csv  in Data folder. 
 
 
@@ -88,21 +88,17 @@ Kevin Estrada
 - Updated google slide to explain what will be included in "Data preprocessing" and "Data details", "Data storage"
 
 
-## Data Selection 
+**Week 4 (March 27th-April 3rd)**
 
-**Reason why they selected their topic:**
+Ian Hernandez
+- Created further additions and rivisions to the [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing).
+- Helped organize the repository 
+- Helped developee the story 
 
-We selected this topic becuase we found it interesting and thought it would be a great machine learning project. This data set has mulitpe features and we found it possible to merge with an additional data set by the postal code.  
+Kevin Estrada
 
+Jayce Cox
 
-**Description of their source of data**
-
-The source was found on the [Link to website](https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0). This website hosts multipe data sets on the San Francisco area.
-
-
-**Questions they hope to answer with the data**
-
-We hope to determine if a restaurant will have a High, low, or moderate health risk based off numerous features found in the data set.
 
 
 # Communication Protocols
