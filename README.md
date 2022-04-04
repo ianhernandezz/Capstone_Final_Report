@@ -100,6 +100,8 @@ Kevin Estrada
 
 Jayce Cox
 
+- assisted with resampling the model
+- updated google slides with new ML model results
 
 
 # Communication Protocols
