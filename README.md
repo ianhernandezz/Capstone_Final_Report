@@ -97,6 +97,9 @@ Ian Hernandez
 - Helped develope the story for the project
 
 Kevin Estrada
+- Assisted with the machine learning notebook. Bining values, additional resampling techiques. 
+- Worked on the database to help retreive additional csv.
+- Assisted with updating google slides notebook. 
 
 Jayce Cox
 
