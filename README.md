@@ -2,13 +2,16 @@
 
 # Index:
 
-- Machine Learning Model 1 and 2 in [Notebook](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Notebooks) folder. 
-    - Provisional_ML_RF_1 is the first machine learning run
-    - Provisional_ML_RF_2 is the fine tuned machine learning run
+- Provisional Machine Learning Models in [Notebook](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Notebooks) folder. 
+    - Provisional_ML_RF_1 - with all features
+    - Provisional_ML_RF_2 - no I.D or inspection score
+    - Provisional_ML_RF_3 - no violation description
+    - Provisional_ML_RF_4 - no violation description, score, or I.D
 - Data cleaning and exploration files in [ML_PreProcessing](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/ML_Preprocessing)folder
 - Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing). 
 - SF_Restaurant_Scores_Standard.csv  in [Data](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Data) folder. 
 - [Tableau Dashboard](https://ianhernandezz.github.io/Capstone_Final_Report/)
+- [Final ML Model](https://github.com/ianhernandezz/Capstone_Final_Report/blob/main/Capstone_ML_Final.ipynb)
 - Communication Protocols 
 
 
@@ -124,6 +127,7 @@ Jayce Cox
 # Communication Protocols
 
 - First step daily - do a pull to the individual clones of the main branch 
+- Use of Slack for meetings and updates
 - Do a git pull of the individual branches to have the most up to date information to prevent discrepencies upon updating
 - Make sure to update the main branch and maintain constant communication to make sure everyone knows to perform updates to the clones. 
 - Make sure not to work on the same file at the same time as that will create discrepencies for update. 
