@@ -8,6 +8,7 @@
 - Data cleaning and exploration files in [ML_PreProcessing](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/ML_Preprocessing)folder
 - Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing). 
 - SF_Restaurant_Scores_Standard.csv  in [Data](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Data) folder. 
+- [Tableau Dashboard](https://ianhernandezz.github.io/Capstone_Final_Report/)
 - Communication Protocols 
 
 
@@ -105,6 +106,19 @@ Jayce Cox
 
 - assisted with resampling the model
 - updated google slides with new ML model results
+
+**Week 4 (Aril 3rd-April 7th)**
+
+Ian Hernandez
+
+- Created links to sections within readme file
+- Polished powerpoint sections
+- Created a Tableau Dashboard wiht assistance of the team
+- Created a webhosting for the dashboard to be accessed by anyone
+
+Kevin Estrada
+
+Jayce Cox
 
 
 # Communication Protocols
