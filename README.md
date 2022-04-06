@@ -127,7 +127,14 @@ Jayce Cox
 # Communication Protocols
 
 - First step daily - do a pull to the individual clones of the main branch 
+
+![Commits](./Images/Screen%20Shot%202022-04-06%20at%207.11.27%20PM.png)
+
+![Branches](./Images/Screen%20Shot%202022-04-06%20at%207.11.05%20PM.png)
+
 - Use of Slack for meetings and updates
+![SlackLogo](./Images/slack-logo-icon.png)
+
 - Do a git pull of the individual branches to have the most up to date information to prevent discrepencies upon updating
 - Make sure to update the main branch and maintain constant communication to make sure everyone knows to perform updates to the clones. 
 - Make sure not to work on the same file at the same time as that will create discrepencies for update. 
