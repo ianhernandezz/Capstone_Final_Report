@@ -107,6 +107,19 @@ Jayce Cox
 - assisted with resampling the model
 - updated google slides with new ML model results
 
+**Week 4 (Aril 3rd-April 7th)**
+
+Ian Hernandez
+
+- Created links to sections within readme file
+- Polished powerpoint sections
+- Created a Tableau Dashboard wiht assistance of the team
+- Created a webhosting for the dashboard to be accessed by anyone
+
+Kevin Estrada
+
+Jayce Cox
+
 
 # Communication Protocols
 
