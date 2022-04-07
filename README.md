@@ -129,12 +129,15 @@ Ian Hernandez
 
 - Created links to sections within readme file
 - Polished powerpoint sections
-- Created a Tableau Dashboard wiht assistance of the team
+- Created a Tableau Dashboard with assistance of the team
 - Created a webhosting for the dashboard to be accessed by anyone
 
 Kevin Estrada
 
 Jayce Cox
+
+-Polished google slides
+-Assisted with Tableau
 
 
 # Communication Protocols
