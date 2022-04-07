@@ -3,7 +3,9 @@
 # Index:
 
 - Provisional Machine Learning Models in [Notebook](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Notebooks) folder. 
+
     - Provisional_ML_RF_1 - with all features
+    
     ![ML1](./Images/1.png)
 
     - Provisional_ML_RF_2 - no I.D or inspection score
@@ -20,6 +22,7 @@
 - SF_Restaurant_Scores_Standard.csv  in [Data](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Data) folder. 
 - [Tableau Dashboard](https://ianhernandezz.github.io/Capstone_Final_Report/)
 - [Final ML Model](https://github.com/ianhernandezz/Capstone_Final_Report/blob/main/Capstone_ML_Final.ipynb)
+
 ![Final](./Images/FinalML.png)
 
 - Communication Protocols 
@@ -146,3 +149,7 @@ Jayce Cox
 - Do a git pull of the individual branches to have the most up to date information to prevent discrepencies upon updating
 - Make sure to update the main branch and maintain constant communication to make sure everyone knows to perform updates to the clones. 
 - Make sure not to work on the same file at the same time as that will create discrepencies for update. 
+
+# Dashboard 
+
+[Tableau Dashboard](https://ianhernandezz.github.io/Capstone_Final_Report/)
