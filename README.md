@@ -137,6 +137,7 @@ Kevin Estrada
 Jayce Cox
 
 -Polished google slides
+
 -Assisted with Tableau
 
 
