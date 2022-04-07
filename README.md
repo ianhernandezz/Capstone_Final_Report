@@ -4,14 +4,19 @@
 
 - Provisional Machine Learning Models in [Notebook](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Notebooks) folder. 
     - Provisional_ML_RF_1 - with all features
+    ![ML1](./Images/1.png)
     - Provisional_ML_RF_2 - no I.D or inspection score
+    ![ML2](./Images/2.png)
     - Provisional_ML_RF_3 - no violation description
+    ![ML3](./Images/3.png)
     - Provisional_ML_RF_4 - no violation description, score, or I.D
+    ![ML4](./Images/4.png)
 - Data cleaning and exploration files in [ML_PreProcessing](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/ML_Preprocessing)folder
 - Presentation in [PowerPoint](https://docs.google.com/presentation/d/1ffB2AwLspXSwZHfQvp-hxV4Sp1jOLb_QtWpa1Kn_XQU/edit?usp=sharing). 
 - SF_Restaurant_Scores_Standard.csv  in [Data](https://github.com/ianhernandezz/Capstone_Final_Report/tree/main/Data) folder. 
 - [Tableau Dashboard](https://ianhernandezz.github.io/Capstone_Final_Report/)
 - [Final ML Model](https://github.com/ianhernandezz/Capstone_Final_Report/blob/main/Capstone_ML_Final.ipynb)
+![Final](./Images/FinalML.png)
 - Communication Protocols 
 
 
