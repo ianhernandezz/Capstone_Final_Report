@@ -134,6 +134,10 @@ Ian Hernandez
 
 Kevin Estrada
 
+- Assisted with the machine learning notebook. Bining values, additional resampling techiques.
+- Worked on the database to help retreive additional csv.
+- Assisted with updating google slides notebook.
+
 Jayce Cox
 
 -Polished google slides
