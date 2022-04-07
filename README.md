@@ -149,3 +149,7 @@ Jayce Cox
 - Do a git pull of the individual branches to have the most up to date information to prevent discrepencies upon updating
 - Make sure to update the main branch and maintain constant communication to make sure everyone knows to perform updates to the clones. 
 - Make sure not to work on the same file at the same time as that will create discrepencies for update. 
+
+# Dashboard 
+
+[Tableau Dashboard](https://ianhernandezz.github.io/Capstone_Final_Report/)
