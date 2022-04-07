@@ -133,9 +133,9 @@ Jayce Cox
 
 - First step daily - do a pull to the individual clones of the main branch 
 
-![Commits](./Images/Screen%20Shot%202022-04-06%20at%207.11.27%20PM.png)
+![Commits](./Images/Commits.png)
 
-![Branches](./Images/Screen%20Shot%202022-04-06%20at%207.11.05%20PM.png)
+![Branches](./Images/Branches.png)
 
 - Use of Slack for meetings and updates
 - Do a git pull of the individual branches to have the most up to date information to prevent discrepencies upon updating
